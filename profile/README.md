@@ -73,5 +73,10 @@ https://user-images.githubusercontent.com/85288381/212529229-73ab582a-aac6-4bba-
         <td align="center">김민세</td>
         <td align="center">서태영</td>
     </tr>
+  <tr>
+        <td align="center">PM, Frontend, backend</td>
+        <td align="center">embedded</td>
+        <td align="center">AI, backend</td>
+    </tr>
 </table>
 
