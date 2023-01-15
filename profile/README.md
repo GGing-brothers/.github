@@ -48,3 +48,30 @@ https://user-images.githubusercontent.com/85288381/212529229-73ab582a-aac6-4bba-
 - 코로나 이후 사람들의 관심이 건강으로 가며 홈트레이닝을 하는 사람들이 늘어나고 있다.
 - 시장에 있는 앱은 자신이 원하는 부위를 운동할 수 있는 자세를 잘하고 있는지 알 수 없다.
 - 자세를 잘 못 잡고 운동하면 운동 효율이 하락하고 관절에 무리가 가며 부상까지 이어질 수 있다.
+***
+### made by
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/min050410">
+                <img alt="이태현" src="https://avatars.githubusercontent.com/LLTae2" width="100" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/leehj050211">
+                <img alt="김민세" src="https://avatars.githubusercontent.com/kimminse3380" width="100" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/leehj050211">
+                <img alt="서태영" src="https://avatars.githubusercontent.com/sty0507" width="100" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">이태현</td>
+        <td align="center">김민세</td>
+        <td align="center">서태영</td>
+    </tr>
+</table>
+
