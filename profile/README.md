@@ -16,7 +16,7 @@
 ### 낑기는 형제들 자료
 📃[사업계획서](https://chocolate-jonquil-c14.notion.site/16a30b80d1994f8b811ba02f10486219)
 
-📖[낑기는형제들 ppt](https://chocolate-jonquil-c14.notion.site/955abfbdcc1140c09db156b1787c3fa5)
+📖[낑기는형제들 사업계획서, 결과 ](https://chocolate-jonquil-c14.notion.site/955abfbdcc1140c09db156b1787c3fa5)
 
 #### 홍보영상
 https://user-images.githubusercontent.com/85288381/212529229-73ab582a-aac6-4bba-97e8-1a2723be20c2.mp4
@@ -48,6 +48,10 @@ https://user-images.githubusercontent.com/85288381/212529229-73ab582a-aac6-4bba-
 - 코로나 이후 사람들의 관심이 건강으로 가며 홈트레이닝을 하는 사람들이 늘어나고 있다.
 - 시장에 있는 앱은 자신이 원하는 부위를 운동할 수 있는 자세를 잘하고 있는지 알 수 없다.
 - 자세를 잘 못 잡고 운동하면 운동 효율이 하락하고 관절에 무리가 가며 부상까지 이어질 수 있다.
+***
+### 활동
+- Ja Korea와 삼성이 함께하는 창업놀이터 - 전시 부분 출품
+- Ja Korea와 삼성이 함께하는 창업놀이터 - 피칭 부분 출품
 ***
 ### made by
 <table>
