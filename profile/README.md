@@ -53,17 +53,17 @@ https://user-images.githubusercontent.com/85288381/212529229-73ab582a-aac6-4bba-
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/min050410">
+            <a href="https://github.com/LLTae2">
                 <img alt="이태현" src="https://avatars.githubusercontent.com/LLTae2" width="100" />
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/leehj050211">
+            <a href="https://github.com/kimminse3380">
                 <img alt="김민세" src="https://avatars.githubusercontent.com/kimminse3380" width="100" />
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/leehj050211">
+            <a href="https://github.com/sty0507">
                 <img alt="서태영" src="https://avatars.githubusercontent.com/sty0507" width="100" />
             </a>
         </td>
