@@ -21,7 +21,9 @@
 
 #### 홍보영상
 <div style="center">
+  
 https://user-images.githubusercontent.com/85288381/212529229-73ab582a-aac6-4bba-97e8-1a2723be20c2.mp4
+  
 </div>
 
 ***
