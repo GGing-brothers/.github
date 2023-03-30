@@ -18,8 +18,11 @@
 
 📖[낑기는형제들 사업계획서, 결과 ](https://chocolate-jonquil-c14.notion.site/955abfbdcc1140c09db156b1787c3fa5)
 
+
 #### 홍보영상
+<center>
 https://user-images.githubusercontent.com/85288381/212529229-73ab582a-aac6-4bba-97e8-1a2723be20c2.mp4
+</center>
 
 ***
 
@@ -50,8 +53,8 @@ https://user-images.githubusercontent.com/85288381/212529229-73ab582a-aac6-4bba-
 - 자세를 잘 못 잡고 운동하면 운동 효율이 하락하고 관절에 무리가 가며 부상까지 이어질 수 있다.
 ***
 ### 활동
-- Ja Korea와 삼성이 함께하는 창업놀이터 - 전시 부분 출품
-- Ja Korea와 삼성이 함께하는 창업놀이터 - 피칭 부분 출품
+- Ja Korea와 삼성이 함께하는 창업놀이터 - 전시 부분 수상
+- Ja Korea와 삼성이 함께하는 창업놀이터 - 피칭 부분 수상
 ***
 ### made by
 <table>
